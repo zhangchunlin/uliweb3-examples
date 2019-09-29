@@ -1,0 +1,7 @@
+six
+uliweb3
+uliweb-ui
+uliweb-layout
+uliweb-apps
+uliweb-apijson
+sqlalchemy
